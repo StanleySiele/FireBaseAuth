@@ -1,4 +1,4 @@
-package com.vatsal.kesarwani.testassignment;
+package com.stanapps.mb.testassignment;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

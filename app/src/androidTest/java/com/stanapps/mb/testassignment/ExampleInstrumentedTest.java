@@ -1,4 +1,4 @@
-package com.vatsal.kesarwani.testassignment;
+package com.stanapps.mb.testassignment;
 
 import android.content.Context;
 
